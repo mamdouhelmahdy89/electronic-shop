@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(241, 75, 116);
+}
+
+.card img:hover{
+   opacity: 1;
+   
+}
+.card img{
+    opacity: .5;
+    
+ }
+
+.card-body:hover{
+
+    color: brown;
+}
